@@ -1,4 +1,4 @@
-# Renegotiating Theories of Punishment - Topic Modeling Results
+# Topic Modeling Results
 
 [Renegotiating Theories of Punishment_Topic Modeling Results_Anthony](./Anthony.html)
 
