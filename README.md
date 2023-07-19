@@ -5,3 +5,5 @@
 [Renegotiating Theories of Punishment_Topic Modeling Results_Cruz](./Cruz.html)
 
 [Renegotiating Theories of Punishment_Topic Modeling Results_Hernandez](./Hernandez.html)
+
+[Renegotiating Theories of Punishment_Topic Modeling Results_Potter](./Potter.html)
